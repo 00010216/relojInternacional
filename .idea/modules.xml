@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://C:\Users\kcruz\AndroidStudioProjects\relojInternacional\MiPrimerApp.iml" filepath="C:\Users\kcruz\AndroidStudioProjects\relojInternacional\MiPrimerApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\kcruz\AndroidStudioProjects\relojInternacional\app\app.iml" filepath="C:\Users\kcruz\AndroidStudioProjects\relojInternacional\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/relojInternacional.iml" filepath="$PROJECT_DIR$/relojInternacional.iml" />
     </modules>
   </component>
